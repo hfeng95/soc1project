@@ -1,0 +1,70 @@
+html {
+	overflow-y: scroll;
+}
+body {
+	background-color: #85a9ab;
+}
+h1 {
+	font-family: Helvetica;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	color: #ebe6da;
+}
+figcaption {
+    margin: 10px;
+    font-family: Arial;
+    font-style: italic;
+	text-align: center;
+	font-size: 14px;
+    color: #996a63;
+}
+figure {
+    padding: 5px;
+}
+img {
+	display: block;
+	max-width: 100%;
+	margin: auto;
+}
+#bodytext {
+    width: 500px;
+    margin: auto;
+    background: #ebe6da;
+	border-radius: 25px 25px 0px 0px;
+	padding: 10px 20px;
+	font-size: 16px;
+}
+.buttonlink {
+	width: 250px;
+	margin-top: 2px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #ebe6da;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+}
+.buttonlink:hover {
+	background-color: #dbd1c1;
+	transition: 0.3s;
+}
+.buttonlinkfoot {
+	width: 540px;
+	margin-top: 2px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #ebe6da;
+	border: none;
+	padding: 5px 20px;
+	text-align: center;
+	font-size: 14px;
+	cursor: pointer;
+}
+.buttonlinkfoot:hover {
+	background-color: #dbd1c1;
+	transition: 0.3s;
+}
