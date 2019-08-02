@@ -27,6 +27,10 @@ img {
 	max-width: 100%;
 	margin: auto;
 }
+blockquote {
+	display: block;
+	margin: 1em 3em;
+}
 #bodytext {
     width: 500px;
     margin: auto;
